@@ -188,7 +188,7 @@ var C = require('../cash.js');  // our module
 Back in your terminal window, re-run the **mocha** command and watch it *fail*:
 
 ```sh
-mocha
+npm test
 ```
 
 ![Mocha TFD Fail](https://raw.github.com/jce-il/learn-mocha/master/images/mocha-tfd-cannot-find-module-first-fail.png "Mocha TFD Fail")
