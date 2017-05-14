@@ -6,7 +6,7 @@ Learn Mocha [![Build Status](https://travis-ci.org/jce-il/learn-mocha.png?branch
 > **Note**: This tutorial is an intro to Testing with Mocha. It is a fork of [https://github.com/dwyl/**learn-mocha**](https://github.com/dwyl/learn-mocha) adapted as an excercise for a software [engineering course](https://github.com/jce-il/se-class/wiki).
 
 For students, follow these steps:
-- Fork your own copy of this toutorial (using the classroom invitation)
+- Using the classroom invitation, make your own copy of this toutorial
 - Clone localy (if working on a public machine make sure to ```git config``` your usename and email)
 - Follow this tutorial, while commiting your work right after every step.
 - In the commit messages use a prefix of "RED", "GREEN", or "REFACTOR" according to the step, e.g. "RED: a failing test for a missing module"
@@ -38,6 +38,10 @@ maintains "*I don't have time to write tests*" or
 everything starts breaking ... "*it was working this morning*" ...
 
 - - -
+
+## Pre-requisites
+- Instalaion of node and npm
+- A bash shell
 
 
 ## Installation
