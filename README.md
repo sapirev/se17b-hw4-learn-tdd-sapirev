@@ -429,7 +429,7 @@ Run the following command to get a coverage report:
 npm run cover
 ```
 (or directly ```./node_modules/.bin/istanbul cover _mocha -- -R spec```, or globally, with ```istanbul cover _mocha -- -R spec```)
-Note: on Windows paths maybe slightly different, see [here](https://github.com/gotwarlost/istanbul#usage-on-windows).
+Note: on Windows paths maybe slightly different, e.g. ```istanbul cover node_modules/mocha/bin/_mocha```, see [here](https://github.com/gotwarlost/istanbul#usage-on-windows).
 
 You should see:
 
@@ -457,7 +457,7 @@ https://github.com/dwyl/learn-travis
 
 There are other tool that can be chained, see for example the badges in the begining of this page.
 
-Update the link below in the README file, to point to **your** repository status (as well as in the beginning).
+Update the link below in the README file, to point to **your** (e.g.: ```.com/jce-il-ex/learn-mocha-my-name``` repository status (as well as in the beginning). Note: if your repository is private the travis-ci sufix is .com.
 
 [![Travis Build Status](https://travis-ci.org/jce-il/learn-mocha.svg)](https://travis-ci.org/jce-il/learn-mocha)
 
