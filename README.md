@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 Learn Mocha [![Build Status](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-sapirev.svg?branch=master)](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-sapirev.svg?branch=master) [![Test Coverage](https://codeclimate.com/github/jce-il/learn-mocha/badges/coverage.svg)](https://codeclimate.com/github/jce-il/learn-mocha/coverage) [![Code Climate](https://codeclimate.com/github/jce-il/learn-mocha.png)](https://codeclimate.com/github/jce-il/learn-mocha) [![Issue Count](https://codeclimate.com/github/jce-il/learn-mocha/badges/issue_count.svg)](https://codeclimate.com/github/jce-il/learn-mocha) [![devDependencies Status](https://david-dm.org/jce-il/learn-mocha/dev-status.svg)](https://david-dm.org/jce-il/learn-mocha?type=dev)
-=======
-Learn Mocha [![Build Status](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-sapirev)](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-sapirev) [![Test Coverage](https://codeclimate.com/github/jce-il/learn-mocha/badges/coverage.svg)](https://codeclimate.com/github/jce-il/learn-mocha/coverage) [![Code Climate](https://codeclimate.com/github/jce-il/learn-mocha.png)](https://codeclimate.com/github/jce-il/learn-mocha) [![Issue Count](https://codeclimate.com/github/jce-il/learn-mocha/badges/issue_count.svg)](https://codeclimate.com/github/jce-il/learn-mocha) [![devDependencies Status](https://david-dm.org/jce-il/learn-mocha/dev-status.svg)](https://david-dm.org/jce-il/learn-mocha?type=dev)
->>>>>>> 9962d8ab172e3e9d57c83aefd2c03134f55452ce
-===========
+
 
 *A Quick Guide* to **mocha.js**: Test Driven Development (TDD) in **node.js** and other Vsersion Control and Continuous Integration (CI) Tools
 
